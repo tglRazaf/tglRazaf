@@ -20,6 +20,6 @@
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tglrazaf&theme=transparent&show_icons=true&locale=en&layout=compact" alt="tglrazaf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tglrazaf&theme=transparent&show_icons=true&locale=en" alt="tglrazaf" /></p>
+<!-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tglrazaf&theme=transparent&show_icons=true&locale=en" alt="tglrazaf" /></p> -->
 </div>
