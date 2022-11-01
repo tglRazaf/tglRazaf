@@ -9,6 +9,6 @@
 
 <center align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tglRazaf&theme=Javascript-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tglRazaf&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </center>
