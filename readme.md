@@ -9,6 +9,6 @@
 
 <center align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tglRazaf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&ring=1321FE&fire=DD5007)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tglRazaf&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 </center>
