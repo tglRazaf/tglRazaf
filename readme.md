@@ -4,7 +4,7 @@
 
 <ul>
     <li>Passionate about frontend dev, talk me about html/css/javascript and flutter 😎</li>
-    <li>Reach me on 📫 <a href="mailto:stephanorazafindramena@gmail.com">stephanorazafindramena@gmail.com</a> or checkout <a href="http://stephanorz.netlify.app/"> my portfolio </a></li>
+    <li>Reach me on 📫 <a href="mailto:stephanorazafindramena@gmail.com">stephanorazafindramena@gmail.com</a> or checkout <a href="https://stephanorz.vercel.app/"> my portfolio </a></li>
 </ul>
 <br>
 </p>
